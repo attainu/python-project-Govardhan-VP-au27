@@ -30,5 +30,7 @@ Usage
 
 Download ZIP or clone the repository 
 
+Thanks to the   following people for    help and support
+
 
 
